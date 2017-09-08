@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1459610832 source:c:\documents and settings\administrador\escritorio\tpcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1460082432 source:e:\tpcalculadora\biblioteca.c
+
+1460083432 source:e:\tpcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1460083638 e:\tpcalculadora\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+
+1460070190 source:d:\tp_laboratorio_1-master\biblioteca.c
+
+1460070190 source:d:\tp_laboratorio_1-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1460070190 d:\tp_laboratorio_1-master\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+
+1461762886 source:e:\calculadora\biblioteca.c
+
+1461768096 source:e:\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1461762876 e:\calculadora\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+
+1461769402 source:h:\calculadora\biblioteca.c
+
+1461768096 source:h:\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1461762876 h:\calculadora\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+
+1461781265 source:d:\tp_1_cascara\calculadora\biblioteca.c
+
+1461781184 source:d:\tp_1_cascara\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1461781027 d:\tp_1_cascara\calculadora\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+
+1461781265 source:e:\c++\c++\calculadora\biblioteca.c
+
+1461781385 source:e:\c++\c++\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1461781265 e:\c++\c++\calculadora\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+
+1461781265 source:e:\c++\c++\calculadora 2016\biblioteca.c
+
+1461781385 source:e:\c++\c++\calculadora 2016\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1461781265 e:\c++\c++\calculadora 2016\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+
+1504889689 source:e:\c++\calculadora 2016\biblioteca.c
+
+1491502031 source:e:\c++\calculadora 2016\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1504890491 e:\c++\calculadora 2016\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+
