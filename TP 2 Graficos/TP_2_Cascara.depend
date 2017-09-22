@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1505783022 source:e:\c++\tp 2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"funciones.h"
+
+1505778270 e:\c++\tp 2\funciones.h
+
+1505781378 source:e:\c++\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1506108552 source:g:\c++\tp 2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"funciones.h"
+
+1506108616 g:\c++\tp 2\funciones.h
+
+1506106880 source:g:\c++\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1506108552 source:c:\users\fuegaso\documents\github\tp_laboratorio_1\tp 2 graficos\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"funciones.h"
+
+1506108616 c:\users\fuegaso\documents\github\tp_laboratorio_1\tp 2 graficos\funciones.h
+
+1506106880 source:c:\users\fuegaso\documents\github\tp_laboratorio_1\tp 2 graficos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
